@@ -10,7 +10,7 @@
 #
 ### END INIT INFO
 
-# Author: Maurice Hendriks
+# Author: CurlyMo
 NAME=Xbian
 DESC="Xbian boot scripts"
 VERBOSE=no

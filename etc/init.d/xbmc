@@ -10,7 +10,7 @@
 #
 ### END INIT INFO
 
-# Author: Maurice Hendriks
+# Author: CurlyMo
 DESC=XBMC
 NAME=xbmc.bin
 DAEMON=/usr/lib/xbmc/$NAME
